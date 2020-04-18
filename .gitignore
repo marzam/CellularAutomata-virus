@@ -1,0 +1,5 @@
+source-flu-cpp/obj/
+source-gol-cpp/obj/
+pylibcaflu.so
+*.jpg
+*.png
